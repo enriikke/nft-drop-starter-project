@@ -1,0 +1,23 @@
+{
+  "name": "Jonathan",
+  "symbol": "",
+  "image": "0.png",
+  "collection": {
+    "name": "JoJo",
+    "family": "JoJo"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "INSERT_CREATOR_WALLET_ADDRESS_HERE",
+        "share": 100
+      }
+    ]
+  }
+}
